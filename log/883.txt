@@ -1,0 +1,1881 @@
+
+[0]start______________________________________________________________________________
+
+GET /view/1/about.html HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[0]over_______________________________________________________________________________
+
+[1]start______________________________________________________________________________
+
+GET /view/1/css/reset.css HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[1]over_______________________________________________________________________________
+
+[2]start______________________________________________________________________________
+
+GET /view/1/css/grid_12.css HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[2]over_______________________________________________________________________________
+
+[3]start______________________________________________________________________________
+
+GET /view/1/css/style.css HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[3]over_______________________________________________________________________________
+
+[4]start______________________________________________________________________________
+
+GET /view/1/js/jquery-1.7.min.js HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[4]over_______________________________________________________________________________
+
+[5]start______________________________________________________________________________
+
+GET /view/1/js/jquery.easing.1.3.js HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[5]over_______________________________________________________________________________
+
+[6]start______________________________________________________________________________
+
+GET /view/1/js/cufon-yui.js HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[6]over_______________________________________________________________________________
+
+[7]start______________________________________________________________________________
+
+GET /view/1/js/cufon-replace.js HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[7]over_______________________________________________________________________________
+
+[8]start______________________________________________________________________________
+
+GET /view/1/js/Bilbo_400.font.js HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[8]over_______________________________________________________________________________
+
+[9]start______________________________________________________________________________
+
+GET /view/1/images/logo.png HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[9]over_______________________________________________________________________________
+
+[10]start______________________________________________________________________________
+
+GET /view/1/images/page2-img1.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[10]over_______________________________________________________________________________
+
+[11]start______________________________________________________________________________
+
+GET /view/1/images/page2-img2.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[11]over_______________________________________________________________________________
+
+[12]start______________________________________________________________________________
+
+GET /view/1/images/page2-img3.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[12]over_______________________________________________________________________________
+
+[13]start______________________________________________________________________________
+
+GET /view/1/images/logo.png HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[13]over_______________________________________________________________________________
+
+[14]start______________________________________________________________________________
+
+GET /view/1/images/page2-img1.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[14]over_______________________________________________________________________________
+
+[15]start______________________________________________________________________________
+
+GET /view/1/images/page2-img2.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[15]over_______________________________________________________________________________
+
+[16]start______________________________________________________________________________
+
+GET /view/1/images/page2-img3.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/about.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[16]over_______________________________________________________________________________
+
+[17]start______________________________________________________________________________
+
+GET /view/1/images/header-bg.jpg HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/css/style.css
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[17]over_______________________________________________________________________________
+
+[18]start______________________________________________________________________________
+
+GET /view/1/images/header-bg-shadow.png HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/css/style.css
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[18]over_______________________________________________________________________________
+
+[19]start______________________________________________________________________________
+
+GET /view/1/images/button.png HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Referer: http://192.168.223.129:883/view/1/css/style.css
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[19]over_______________________________________________________________________________
+
+[20]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+
+[20]over_______________________________________________________________________________
+
+[21]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36 LBBROWSER
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+
+[21]over_______________________________________________________________________________
+
+[22]start______________________________________________________________________________
+
+GET / HTTP/1.1
+Host: 192.168.223.129:883
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36 LBBROWSER
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+
+[22]over_______________________________________________________________________________
+
+[23]start______________________________________________________________________________
+
+GET / HTTP/1.1
+Accept: */*
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[23]over_______________________________________________________________________________
+
+[24]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[24]over_______________________________________________________________________________
+
+[25]start______________________________________________________________________________
+
+GET /view/index.html HTTP/1.1
+Accept: */*
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[25]over_______________________________________________________________________________
+
+[26]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[26]over_______________________________________________________________________________
+
+[27]start______________________________________________________________________________
+
+GET /view/1/index.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[27]over_______________________________________________________________________________
+
+[28]start______________________________________________________________________________
+
+GET /view/1/css/reset.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[28]over_______________________________________________________________________________
+
+[29]start______________________________________________________________________________
+
+GET /view/1/css/grid_12.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[29]over_______________________________________________________________________________
+
+[30]start______________________________________________________________________________
+
+GET /view/1/css/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[30]over_______________________________________________________________________________
+
+[31]start______________________________________________________________________________
+
+GET /view/1/css/slider.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[31]over_______________________________________________________________________________
+
+[32]start______________________________________________________________________________
+
+GET /view/1/js/jquery.easing.1.3.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[32]over_______________________________________________________________________________
+
+[33]start______________________________________________________________________________
+
+GET /view/1/js/jquery-1.7.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[33]over_______________________________________________________________________________
+
+[34]start______________________________________________________________________________
+
+GET /view/1/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[34]over_______________________________________________________________________________
+
+[35]start______________________________________________________________________________
+
+GET /view/1/js/Bilbo_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[35]over_______________________________________________________________________________
+
+[36]start______________________________________________________________________________
+
+GET /view/1/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[36]over_______________________________________________________________________________
+
+[37]start______________________________________________________________________________
+
+GET /view/1/js/tms-0.4.1.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[37]over_______________________________________________________________________________
+
+[38]start______________________________________________________________________________
+
+GET /view/1/images/logo.png HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[38]over_______________________________________________________________________________
+
+[39]start______________________________________________________________________________
+
+GET /view/1/images/slider-1.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[39]over_______________________________________________________________________________
+
+[40]start______________________________________________________________________________
+
+GET /view/1/images/slider-2.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[40]over_______________________________________________________________________________
+
+[41]start______________________________________________________________________________
+
+GET /view/1/images/slider-3.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[41]over_______________________________________________________________________________
+
+[42]start______________________________________________________________________________
+
+GET /view/1/images/page1-img1.png HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[42]over_______________________________________________________________________________
+
+[43]start______________________________________________________________________________
+
+GET /view/1/index.html HTTP/1.1
+Accept: */*
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[43]over_______________________________________________________________________________
+
+[44]start______________________________________________________________________________
+
+GET /view/1/css/reset.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[44]over_______________________________________________________________________________
+
+[45]start______________________________________________________________________________
+
+GET /view/1/css/grid_12.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[45]over_______________________________________________________________________________
+
+[46]start______________________________________________________________________________
+
+GET /view/1/css/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[46]over_______________________________________________________________________________
+
+[47]start______________________________________________________________________________
+
+GET /view/1/css/slider.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[47]over_______________________________________________________________________________
+
+[48]start______________________________________________________________________________
+
+GET /view/1/js/jquery-1.7.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[48]over_______________________________________________________________________________
+
+[49]start______________________________________________________________________________
+
+GET /view/1/js/jquery.easing.1.3.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[49]over_______________________________________________________________________________
+
+[50]start______________________________________________________________________________
+
+GET /view/1/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[50]over_______________________________________________________________________________
+
+[51]start______________________________________________________________________________
+
+GET /view/1/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[51]over_______________________________________________________________________________
+
+[52]start______________________________________________________________________________
+
+GET /view/1/js/Bilbo_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[52]over_______________________________________________________________________________
+
+[53]start______________________________________________________________________________
+
+GET /view/1/js/tms-0.4.1.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[53]over_______________________________________________________________________________
+
+[54]start______________________________________________________________________________
+
+GET /view/1/images/logo.png HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[54]over_______________________________________________________________________________
+
+[55]start______________________________________________________________________________
+
+GET /view/1/images/slider-1.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[55]over_______________________________________________________________________________
+
+[56]start______________________________________________________________________________
+
+GET /view/1/images/slider-2.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[56]over_______________________________________________________________________________
+
+[57]start______________________________________________________________________________
+
+GET /view/1/images/slider-3.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[57]over_______________________________________________________________________________
+
+[58]start______________________________________________________________________________
+
+GET /view/1/images/page1-img1.png HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/1/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[58]over_______________________________________________________________________________
+
+[59]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[59]over_______________________________________________________________________________
+
+[60]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[60]over_______________________________________________________________________________
+
+[61]start______________________________________________________________________________
+
+GET / HTTP/1.1
+Accept: */*
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[61]over_______________________________________________________________________________
+
+[62]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[62]over_______________________________________________________________________________
+
+[63]start______________________________________________________________________________
+
+GET /view/index.html HTTP/1.1
+Accept: */*
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[63]over_______________________________________________________________________________
+
+[64]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[64]over_______________________________________________________________________________
+
+[65]start______________________________________________________________________________
+
+GET /view/1/index.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[65]over_______________________________________________________________________________
+
+[66]start______________________________________________________________________________
+
+GET /view/2/index.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[66]over_______________________________________________________________________________
+
+[67]start______________________________________________________________________________
+
+GET /view/2/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[67]over_______________________________________________________________________________
+
+[68]start______________________________________________________________________________
+
+GET /view/2/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[68]over_______________________________________________________________________________
+
+[69]start______________________________________________________________________________
+
+GET /view/2/js/jquery-1.4.2.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[69]over_______________________________________________________________________________
+
+[70]start______________________________________________________________________________
+
+GET /view/2/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[70]over_______________________________________________________________________________
+
+[71]start______________________________________________________________________________
+
+GET /view/2/js/AvantGarde_Bk_BT_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[71]over_______________________________________________________________________________
+
+[72]start______________________________________________________________________________
+
+GET /view/2/js/Myriad_Pro_300.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[72]over_______________________________________________________________________________
+
+[73]start______________________________________________________________________________
+
+GET /view/2/images/pic1.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[73]over_______________________________________________________________________________
+
+[74]start______________________________________________________________________________
+
+GET /view/2/images/pic2.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[74]over_______________________________________________________________________________
+
+[75]start______________________________________________________________________________
+
+GET /view/2/images/pic3.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[75]over_______________________________________________________________________________
+
+[76]start______________________________________________________________________________
+
+GET /view/2/images/button.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[76]over_______________________________________________________________________________
+
+[77]start______________________________________________________________________________
+
+GET /view/2/images/pic4.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[77]over_______________________________________________________________________________
+
+[78]start______________________________________________________________________________
+
+GET /view/2/images/slogan.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[78]over_______________________________________________________________________________
+
+[79]start______________________________________________________________________________
+
+GET /view/2/images/pic5.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[79]over_______________________________________________________________________________
+
+[80]start______________________________________________________________________________
+
+GET /view/2/images/1page-img.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[80]over_______________________________________________________________________________
+
+[81]start______________________________________________________________________________
+
+GET /view/2/js/jcarousellite.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[81]over_______________________________________________________________________________
+
+[82]start______________________________________________________________________________
+
+GET /view/2/images/logo.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[82]over_______________________________________________________________________________
+
+[83]start______________________________________________________________________________
+
+GET /view/2/about-us.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/2/index.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[83]over_______________________________________________________________________________
+
+[84]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[84]over_______________________________________________________________________________
+
+[85]start______________________________________________________________________________
+
+GET /view/2/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[85]over_______________________________________________________________________________
+
+[86]start______________________________________________________________________________
+
+GET /view/2/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[86]over_______________________________________________________________________________
+
+[87]start______________________________________________________________________________
+
+GET /view/2/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[87]over_______________________________________________________________________________
+
+[88]start______________________________________________________________________________
+
+GET /view/2/js/jquery-1.4.2.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[88]over_______________________________________________________________________________
+
+[89]start______________________________________________________________________________
+
+GET /view/2/js/AvantGarde_Bk_BT_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[89]over_______________________________________________________________________________
+
+[90]start______________________________________________________________________________
+
+GET /view/2/js/Myriad_Pro_300.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[90]over_______________________________________________________________________________
+
+[91]start______________________________________________________________________________
+
+GET /view/2/js/jcarousellite.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[91]over_______________________________________________________________________________
+
+[92]start______________________________________________________________________________
+
+GET /view/2/images/logo.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[92]over_______________________________________________________________________________
+
+[93]start______________________________________________________________________________
+
+GET /view/2/images/slogan.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[93]over_______________________________________________________________________________
+
+[94]start______________________________________________________________________________
+
+GET /view/2/images/button.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[94]over_______________________________________________________________________________
+
+[95]start______________________________________________________________________________
+
+GET /view/2/images/pic1.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[95]over_______________________________________________________________________________
+
+[96]start______________________________________________________________________________
+
+GET /view/2/images/pic2.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[96]over_______________________________________________________________________________
+
+[97]start______________________________________________________________________________
+
+GET /view/2/images/pic3.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[97]over_______________________________________________________________________________
+
+[98]start______________________________________________________________________________
+
+GET /view/2/images/pic4.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[98]over_______________________________________________________________________________
+
+[99]start______________________________________________________________________________
+
+GET /view/2/images/pic5.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[99]over_______________________________________________________________________________
+
+[100]start______________________________________________________________________________
+
+GET /view/2/images/2page-img.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[100]over_______________________________________________________________________________
+
+[101]start______________________________________________________________________________
+
+GET /view/2/articles.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/2/about-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[101]over_______________________________________________________________________________
+
+[102]start______________________________________________________________________________
+
+GET /view/2/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[102]over_______________________________________________________________________________
+
+[103]start______________________________________________________________________________
+
+GET /view/2/js/jquery-1.4.2.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[103]over_______________________________________________________________________________
+
+[104]start______________________________________________________________________________
+
+GET /view/2/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[104]over_______________________________________________________________________________
+
+[105]start______________________________________________________________________________
+
+GET /view/2/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[105]over_______________________________________________________________________________
+
+[106]start______________________________________________________________________________
+
+GET /view/2/js/AvantGarde_Bk_BT_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[106]over_______________________________________________________________________________
+
+[107]start______________________________________________________________________________
+
+GET /view/2/js/Myriad_Pro_300.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[107]over_______________________________________________________________________________
+
+[108]start______________________________________________________________________________
+
+GET /view/2/js/jcarousellite.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[108]over_______________________________________________________________________________
+
+[109]start______________________________________________________________________________
+
+GET /view/2/images/logo.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[109]over_______________________________________________________________________________
+
+[110]start______________________________________________________________________________
+
+GET /view/2/images/slogan.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[110]over_______________________________________________________________________________
+
+[111]start______________________________________________________________________________
+
+GET /view/2/images/button.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[111]over_______________________________________________________________________________
+
+[112]start______________________________________________________________________________
+
+GET /view/2/images/pic1.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[112]over_______________________________________________________________________________
+
+[113]start______________________________________________________________________________
+
+GET /view/2/images/pic2.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[113]over_______________________________________________________________________________
+
+[114]start______________________________________________________________________________
+
+GET /view/2/images/pic3.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[114]over_______________________________________________________________________________
+
+[115]start______________________________________________________________________________
+
+GET /view/2/images/pic4.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[115]over_______________________________________________________________________________
+
+[116]start______________________________________________________________________________
+
+GET /view/2/images/pic5.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[116]over_______________________________________________________________________________
+
+[117]start______________________________________________________________________________
+
+GET /view/2/images/3page-img.jpg HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[117]over_______________________________________________________________________________
+
+[118]start______________________________________________________________________________
+
+GET /view/2/contact-us.html HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://192.168.223.129:883/view/2/articles.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[118]over_______________________________________________________________________________
+
+[119]start______________________________________________________________________________
+
+GET /view/2/js/cufon-yui.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[119]over_______________________________________________________________________________
+
+[120]start______________________________________________________________________________
+
+GET /view/2/style.css HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[120]over_______________________________________________________________________________
+
+[121]start______________________________________________________________________________
+
+GET /view/2/js/jquery-1.4.2.min.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[121]over_______________________________________________________________________________
+
+[122]start______________________________________________________________________________
+
+GET /view/2/js/cufon-replace.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[122]over_______________________________________________________________________________
+
+[123]start______________________________________________________________________________
+
+GET /view/2/js/AvantGarde_Bk_BT_400.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[123]over_______________________________________________________________________________
+
+[124]start______________________________________________________________________________
+
+GET /view/2/js/Myriad_Pro_300.font.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[124]over_______________________________________________________________________________
+
+[125]start______________________________________________________________________________
+
+GET /view/2/images/pic1.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[125]over_______________________________________________________________________________
+
+[126]start______________________________________________________________________________
+
+GET /view/2/images/pic2.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[126]over_______________________________________________________________________________
+
+[127]start______________________________________________________________________________
+
+GET /view/2/images/pic3.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[127]over_______________________________________________________________________________
+
+[128]start______________________________________________________________________________
+
+GET /view/2/images/pic4.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[128]over_______________________________________________________________________________
+
+[129]start______________________________________________________________________________
+
+GET /view/2/images/pic5.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[129]over_______________________________________________________________________________
+
+[130]start______________________________________________________________________________
+
+GET /view/2/images/button.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[130]over_______________________________________________________________________________
+
+[131]start______________________________________________________________________________
+
+GET /view/2/images/logo.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[131]over_______________________________________________________________________________
+
+[132]start______________________________________________________________________________
+
+GET /view/2/js/jcarousellite.js HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[132]over_______________________________________________________________________________
+
+[133]start______________________________________________________________________________
+
+GET /view/2/images/slogan.gif HTTP/1.1
+Accept: */*
+Referer: http://192.168.223.129:883/view/2/contact-us.html
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko LBBROWSER
+Accept-Encoding: gzip, deflate
+Host: 192.168.223.129:883
+Connection: Keep-Alive
+
+
+[133]over_______________________________________________________________________________
+
+[134]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[134]over_______________________________________________________________________________
+
+[135]start______________________________________________________________________________
+
+GET /favicon.ico HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; LBBROWSER)
+Host: 192.168.223.129:883
+
+
+[135]over_______________________________________________________________________________
+
+[136]start______________________________________________________________________________
+
+
+[136]over_______________________________________________________________________________
