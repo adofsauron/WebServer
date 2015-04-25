@@ -1,3 +1,4 @@
+#include <time.h> 
 #include "Myserver.h"
 #include "Base.h"
 
@@ -44,6 +45,12 @@ int main(int argc, char** argv)
 	
 	addEpollfd(epollfd, sockfd);
 	
+	time_t timep; 
+	
+	time (&timep); 
+	printf("\n\n___________________________________WebServer__________________________________________\n\n");
+	printf("\t\tStart Time: %s\n", asctime(gmtime(&timep)));
+	printf("_______________________________________________________________________________________\n\n");
 	int n=0;
 	while(1)
 	{
@@ -66,7 +73,8 @@ int main(int argc, char** argv)
 				buf[size] = '\0';
 				int x = n++;
 				
-				sprintf(logbuf,"\n[%d]%s\n\n%s[%d]%s\n", x,START,buf,x,OVER);
+				time (&timep); 
+				sprintf(logbuf,"\n[%d]%s\n\n%s\n%s[%d]%s\n\n", x,START,asctime(gmtime(&timep)),buf,x,OVER);
 				printf("%s", logbuf);
 				logInfo(logfd ,logbuf);
 				
